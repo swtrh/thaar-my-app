@@ -10,5 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.13.3"
-  }
+  },
+  
+  "scripts": {"start": "node myapp.js"}
 }
