@@ -1,0 +1,14 @@
+{
+  "name": "thaar-my-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "myapp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thor-Andre Aresvik",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
